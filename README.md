@@ -1,11 +1,3 @@
-## Matthew W. Jackson
-
-**Senior Software Architect**
-
-HMS Essette
-
-Population Health Technology
-
 ## What I'm Doing...
 
 - 🤔 I’m looking for help with OAuth2/Auth0 (OpenID Connect).
