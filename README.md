@@ -8,7 +8,7 @@ Population Health Technology
 
 ## What I'm Doing...
 
-- 🤔 I’m looking for help with OAuth 2 / Auth0 (OpenID Connect).
+- 🤔 I’m looking for help with OAuth2/Auth0 (OpenID Connect).
 - 🌱 I’m currently learning Section 508/Accessibility basics.
 - 💬 Ask me about *anything below!*
 
