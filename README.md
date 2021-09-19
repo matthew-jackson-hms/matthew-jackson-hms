@@ -2,8 +2,8 @@
 
 - 🏡 I’m architechtin’! Vibin’!
 - 📚 I’m engrossed in HL7/FHIR documentation at the moment.
-- 🌱 I’m currently learning Section 508/Accessibility basics.
-- 🤔 I’m looking for help with OAuth2/Auth0 (OpenID Connect).
+- 🌱 I’m always interested to learn more about Section 508/Accessibility.
+- 🤔 I’m happy to talk about integration with OAuth2/Auth0 (OpenID Connect).
 - 💬 Ask me about *anything below!*
 
 ### Frameworks
