@@ -1,8 +1,11 @@
 ## What I'm Doing...
 
-- 📚 I’m engrossed in HL7/FHIR documentation at the moment. 🔥 🚒
-- 🌱 I’m always interested to learn more about Section 508/Accessibility.
-- 🤔 I’m happy to talk about integration with OAuth2/Auth0 (OpenID Connect).
+- 📖 Planning
+- 🔧 Prototyping
+- 👥 Coordinating
+- 🤖 Automating
+- 🔐 Securing Things
+- 🖨️ Coming up with a "brand new approach"™ to Reporting
 - 💬 Ask me about *anything below!*
 
 ### Frameworks
@@ -22,7 +25,7 @@
 - Transact-SQL
 - Java
 - Visual Basic
-- Powershell
+- PowerShell
 
 #### Secondary
 
@@ -40,20 +43,3 @@
 - Swagger/OpenAPI
 - Git/GitHub
 - Jenkins
-
-<!--
-### Hi there 👋
-
-**matthew-jackson-hms/matthew-jackson-hms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
