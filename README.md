@@ -1,3 +1,5 @@
+<img align="right" src="./images/thinking.png" alt="Matthew thinking about stuff" width="250">
+
 ## What I'm Doing...
 
 - 📖 Planning
@@ -7,6 +9,8 @@
 - 🔐 Securing Things
 - 🖨️ Coming up with a "brand new approach"™ to Reporting
 - 💬 Ask me about *anything below!*
+
+----
 
 ### Frameworks
 
@@ -43,3 +47,5 @@
 - Swagger/OpenAPI
 - Git/GitHub
 - Jenkins
+
+<img src="./images/fire.png" alt="Matthew casting Fireball" width="250">
